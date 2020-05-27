@@ -1,4 +1,7 @@
 ###Rent Crawler 租房爬虫
+
+参考学习：https://github.com/waylife/RentCrawer
+
 python2.7
 
 安装Requests以及BeautifulSoup库
